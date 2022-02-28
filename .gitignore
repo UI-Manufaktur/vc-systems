@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vc-systems
+vc-systems.so
+vc-systems.dylib
+vc-systems.dll
+vc-systems.a
+vc-systems.lib
+vc-systems-test-*
+*.exe
+*.o
+*.obj
+*.lst
